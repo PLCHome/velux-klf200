@@ -1,6 +1,6 @@
 {
   "name": "velux-klf200",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Provide objects to Velux® KLF-200 io-homecontrol® Gateway API",
   "main": "lib/klf.js",
   "license": "MIT",
