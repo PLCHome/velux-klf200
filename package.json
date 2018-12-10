@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChrisHanuta/velux-klf200.git"
+    "url": "https://github.com/PLCHome/velux-klf200.git"
   },
   "bugs": {
-    "url": "https://github.com/ChrisHanuta/velux-klf200/issues"
+    "url": "https://github.com/PLCHome/velux-klf200/issues"
   },
-  "homepage": "https://github.com/ChrisHanuta/velux-klf200#readme",
+  "homepage": "https://github.com/PLCHome/velux-klf200#readme",
   "keywords": [
     "velux",
     "klf",

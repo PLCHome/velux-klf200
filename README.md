@@ -6,7 +6,7 @@
 
 This implementation is based on the velux-klf200-api.
 
-For the latest updates see the [CHANGELOG.md](https://github.com/ChrisHanuta/velux-klf200-api/blob/master/CHANGELOG.md)
+For the latest updates see the [CHANGELOG.md](https://github.com/PLCHome/velux-klf200-api/blob/master/CHANGELOG.md)
 
 # Install
 ```
