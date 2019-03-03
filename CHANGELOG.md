@@ -4,6 +4,7 @@
 
 - event GW_COMMAND_RUN_STATUS_NTF for velux nodes
 - callApi added
+- scenes addedd
 
 
 **Fixes**
