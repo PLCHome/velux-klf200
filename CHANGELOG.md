@@ -1,3 +1,9 @@
+### 0.0.5: Maintenance Release
+
+**Fixes**
+
+- removed: polling instead of House status monitor. Because it does not provide an answer
+
 ### 0.0.4: Maintenance Release
 
 **Enhancements**
