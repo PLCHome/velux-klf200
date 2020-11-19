@@ -1,3 +1,10 @@
+### 0.0.6: Maintenance Release
+
+**Enhancements**
+
+- New API with CERT CA
+- API 3.18
+
 ### 0.0.5: Maintenance Release
 
 **Fixes**

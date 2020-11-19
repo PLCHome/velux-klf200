@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "debug": "^4.1.0",
-    "velux-klf200-api": "^0.1.5"
+    "velux-klf200-api": "^0.1.6"
   },
   "repository": {
     "type": "git",
