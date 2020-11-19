@@ -1,3 +1,9 @@
+### 0.0.7: Maintenance Release
+
+**Fixes**
+
+- velux.connect will reject if no scene is defined #2
+
 ### 0.0.6: Maintenance Release
 
 **Enhancements**
